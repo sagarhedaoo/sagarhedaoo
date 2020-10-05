@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>  <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/App%20Store-0D96F6?logo=app-store&logoColor=white&style=for-the-badge">
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=sagarhedaoo&repo=21-DAYS-PROGRAMMING-CHALLENGE-ACES&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=sagarhedaoo&repo=weatherWebApp-1.0&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
-
 ### Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/-sagarhedaoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sagarhedaoo@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Sagar%20Hedaoo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-hedaoo-9863a3111// "Connect on LinkedIn")
