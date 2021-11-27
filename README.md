@@ -1,7 +1,8 @@
 # Hi there 👋
 
 <!---[github stats](https://github-readme-stats.vercel.app/api?username=sagarhedaoo&show_icons=true&theme=vue-dark)--->
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarhedaoo&theme=dark&show_icons=true)
+<!---![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarhedaoo&theme=dark&show_icons=true)--->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sagarhedaoo)](https://github.com/sagarhedaoo/github-contribution-stats/)
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarhedaoo)](https://github.com/anuraghazra/github-readme-stats)
