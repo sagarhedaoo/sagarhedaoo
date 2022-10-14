@@ -16,5 +16,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-sagarhedaoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sagarhedaoo@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Sagar%20Hedaoo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-hedaoo-9863a3111// "Connect on LinkedIn")
 [![Messenger Badge](https://img.shields.io/badge/-sagarhedaoo-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/sagarhedaoo "Connect on Facebook")
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9818649614?text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5513706262?text=Hi!)
 [![Instagram Badge](https://img.shields.io/badge/-sagar__hedaoo-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sagar__hedaoo/)
