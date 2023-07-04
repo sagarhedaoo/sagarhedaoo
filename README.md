@@ -12,8 +12,7 @@
    <img width=80% src="https://github.com/sagarhedaoo/sagarhedaoo/blob/main/Frame%201.jpg" />
 </div>
 
-<hr />
-
+---
 
 <div align="center">
  <h4> Connect With me </h4>
