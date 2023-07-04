@@ -6,7 +6,7 @@
 
 
 
-### Languages and Tools
+<!---  ### Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="android" width="40" height="40"/>&nbsp;
@@ -45,8 +45,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio COde" alt="VSCODE" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp; --->
 
 ### Connect with Me
 [![Gmail Badge](https://img.shields.io/badge/-sagarhedaoo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sagarhedaoo@gmail.com "Connect via Email")
