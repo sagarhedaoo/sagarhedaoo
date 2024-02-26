@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://sagarhedaoo.github.io" />
-   <img width="750" src="https://github.com/sagarhedaoo/sagarhedaoo/blob/main/Make%20your%20README.png" />
+   <img width="750" src="https://github.com/sagarhedaoo/sagarhedaoo/blob/4c7542b08afded793a24c809276af7c62ab1b11b/Banner.png" />
 </div>
 
 <div align="center">
