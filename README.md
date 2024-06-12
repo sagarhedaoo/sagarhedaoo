@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate full stack developer based in New Jersey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarhedaoo" alt="sagarhedaoo" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Issues,Stars,Followers"><img src="https://github-profile-trophy.vercel.app/?username=sagarhedaoo&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Issues,Stars,Followers" alt="sagarhedaoo" /></a> </p>
 
 - 🔭 I’m currently working on **Passkeys**
 
