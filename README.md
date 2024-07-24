@@ -3,9 +3,9 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Issues,Stars,Followers"><img src="https://github-profile-trophy.vercel.app/?username=sagarhedaoo&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Issues,Stars,Followers" alt="sagarhedaoo" /></a> </p>
 
-- 🔭 I’m currently working on **Passkeys**
+- 🔭 I’m currently working on **Passkeys** integration
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://sagarhedaoo.com/](https://sagarhedaoo.com/)
 
