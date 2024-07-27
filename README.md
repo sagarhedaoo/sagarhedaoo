@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular** and **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://sagarhedaoo.com/](https://sagarhedaoo.com/)
+- 👨‍💻 Check out my portfolio here [https://sagarhedaoo.com/](https://sagarhedaoo.com/)
 
 - 💬 Ask me about **React, Vue and TypeScript**
 
