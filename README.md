@@ -12,6 +12,9 @@
 
 ---
 
+![Claude Code Usage](https://ai-usage-tracker-woad.vercel.app/card.svg)
+
+
 ### About
 
 I build intelligent, scalable platforms at the intersection of **AI**, **data engineering**, and **modern full-stack development** — designing multi-agent systems, RAG pipelines, and production-grade LLM applications, backed by robust data infrastructure and clean, performant UIs.
