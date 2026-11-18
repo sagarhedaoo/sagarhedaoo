@@ -12,8 +12,7 @@
 
 ---
 
-![Claude Code Usage](https://ai-usage-tracker-woad.vercel.app/card.svg)
-
+<img src="https://ai-usage-tracker-woad.vercel.app/card.svg?v=100" width="920" alt="Claude and Codex usage">
 
 ### About
 
